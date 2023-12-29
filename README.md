@@ -1,10 +1,10 @@
 # Задачки для курса Go с нуля после 2 спринта
 
 ## Внешиние ресурсы
-- [leetcode.com][https://leetcode.com/studyplan/top-interview-150/] начинать с Easy и там как пойдёт
-- [codewars.com]phttps://www.codewars.com/kata/search/go?q=&beta=false&order_by=rank_id%20asc] тут они от лёгкого с сложному
-- [hackerrank.com][https://www.hackerrank.com/contests/projecteuler/challenges] у них сложнее, надо делать ввод-вывод, но онлайн редактор VSCode и тоже интересные задачи
-- [codeforcas.com][https://codeforces.com/problemset?order=BY_RATING_ASC] русскоязычный, но ввод-вывод и это скорее олимпиадные задачи
+- [leetcode.com](https://leetcode.com/studyplan/top-interview-150/) начинать с Easy и там как пойдёт
+- [codewars.com](https://www.codewars.com/kata/search/go?q=&beta=false&order_by=rank_id%20asc) тут они от лёгкого с сложному
+- [hackerrank.com](https://www.hackerrank.com/contests/projecteuler/challenges) у них сложнее, надо делать ввод-вывод, но онлайн редактор VSCode и тоже интересные задачи
+- [codeforcas.com](https://codeforces.com/problemset?order=BY_RATING_ASC) русскоязычный, но ввод-вывод и это скорее олимпиадные задачи
 
 ## Мои идеи
 Мы не проходили ни IDE, ни работу в консоли, но тут эти знания будут нужны. Если это пугает - попробуйте алгоритмические задачки выше, там можно код запускать на сайте. Хотя я всё равно делаю у себя на компьютере в IDE
